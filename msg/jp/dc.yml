@@ -1,0 +1,29 @@
+- id: 16124
+  en: >-
+    All that´s left now is to go to
+
+    the {:theme 0A}audience chamber{:reset}. Hurry, Roxas!
+- id: 20335
+  en: >-
+    Look over there, Roxas!
+
+    That big hole appeared out of nowhere!{:clear }I thought the castle was safe again.
+
+    What's going on?
+- id: 21410
+  en: Is that you...?{:delay 73 00}{:clear }Ventus?
+- id: 21411
+  en: No...You look like him, but...{:delay B9 00}{:clear }Your heart isn't your own.
+- id: 21412
+  en: It's fractured...darkened.{:delay 99 00}{:clear }What's happened to you?
+- id: 21413
+  en: Could it be...
+- id: 21415
+  en: Has he taken you, too?
+- id: 21420
+  en: That light...there's no doubt.{:delay 78 00}{:clear }Take care of Ventus' light for me.
+- id: 21425
+  en: >-
+    {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}Oh, Roxas!
+
+    What great timing!

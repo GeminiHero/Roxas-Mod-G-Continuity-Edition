@@ -1,0 +1,175 @@
+﻿- id: 13129
+  text: The 13th Reunion
+- id: 13130
+  text: >-
+    A Limit Command that unleashes Axel
+
+    and Roxas´s joint attack, The 13th Reunion.
+
+    Consumes all of Roxas´s MP.
+- id: 15125
+  text: "\"Kairi's\" Sketches"
+- id: 15126
+  text: >-
+    Sketches left by Kairi.
+
+    The drawings appear to have deep
+
+    meaning.
+- id: 15528
+  text: Dark Firaga
+- id: 15529
+  text: >-
+    Stops enemy movements with dark magic
+
+    spells as commanded when Roxas´s
+
+    combo is about to end. {:color #F0F00080}MP Cost: 10{:reset}
+- id: 17854
+  text: 13th Reunion
+- id: 17855
+  text: Key's Chosen
+- id: 17856
+  text: Twin Firaga
+- id: 17857
+  text: '{XIII} Blades'
+- id: 17858
+  text: Fate Breaker
+- id: 17859
+  text: Dusk to Dawn
+- id: 18585
+  text: Dark Firaga
+- id: 18755
+  text: >-
+    Roxas:
+
+    Better not interrupt training...
+- id: 18756
+  text: >-
+    Roxas:
+
+    Better not interrupt training...
+- id: 18757
+  text: >-
+    Roxas:
+
+    Better not interrupt training...
+- id: 18758
+  text: >-
+    Roxas:
+
+    Better not interrupt training...
+- id: 18774
+  text: The Old Mansion
+- id: 18808
+  text: >-
+    Roxas:
+
+    We´ve got to log in to
+
+    that computer.
+- id: 18809
+  text: ''
+- id: 18810
+  text: >-
+    Roxas:
+
+    We need to restart
+
+    that terminal.
+- id: 19362
+  text: Dark Firaga
+- id: 20095
+  text: Link Form
+- id: 20096
+  text: Link
+- id: 20097
+  text: Link Form
+- id: 20098
+  text: >-
+    Access Link Form alone with the help
+
+    of Roxas' other half.
+- id: 20107
+  text: Auto Link
+- id: 20108
+  text: >-
+    Automatically sets the Reaction
+
+    Command to Link in a pinch, if
+
+    Link Form is usable.
+- id: 20110
+  text: >-
+    A Link Command that unleashes an attack
+
+    on an enemy as you pass by. Press {:icon dynamic-triangle} at
+
+    the right tempo for a combo. {:color #F0F00080}MP Cost:{:width 100} 60{:reset}
+- id: 20112
+  text: >-
+    A Link Command that unleashes
+
+    a powerful combo attack. Press {:icon dynamic-triangle} for
+
+    a consecutive combo. {:color #F0F00080}MP Cost:{:width 100} 75{:reset}
+- id: 20114
+  text: >-
+    A Link Command that allows you to throw
+
+    the Keyblade at the target.
+
+    Press {:icon dynamic-triangle} for a combo. {:color #F0F00080}MP Cost:{:width 100} 65{:reset}
+- id: 20116
+  text: >-
+    A Link Command that can be unleashed by
+
+    pressing {:icon dynamic-triangle} after an aerial combo.
+
+    {:color #F0F00080}MP Cost:{:width 100} 80{:reset}
+- id: 20123
+  text: Link LV
+- id: 20124
+  text: >-
+    For each Link Command finishing move
+
+    unleashed in Link Form, 1 point of
+
+    experience is gained.
+- id: 20125
+  text: >-
+    Experience necessary to level up.
+
+    The Level cap depends on the number of
+
+    Forms obtained.
+- id: 20126
+  text: >-
+    The Form gauge for Link Form.
+
+    The longer the gauge, the longer
+
+    the time spent transformed.
+- id: 20127
+  text: Link
+- id: 20128
+  text: >-
+    Link Form Status.
+
+    A form specializing in Link attacks.
+
+    {:color #F0F00080}Cost: 4{:reset}
+- id: 20129
+  text: >-
+    Link Form Level. Time spent
+
+    transformed becomes longer, and
+
+    Abilities become stronger by leveling up.
+- id: 20235
+  text: Link
+- id: 20330
+  text: >-
+    Restores Roxas's HP when
+
+    a Link Command lands.
