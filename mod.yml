@@ -4,6 +4,30 @@ description: Hungry for lore and want more of what you saw in the trailers? This
 specifications: 0
 dependencies:
 assets:
+- name: bgm\music087.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: bgm\music087.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
 - name: msg/jp/jm.bar
   multi:
   - name: msg/us/jm.bar
@@ -95,6 +119,54 @@ assets:
   method: copy
   source:
   - name: remastered/itempic/item-239.imd/-0.dds
+- name: remastered\obj\B_EX170_LAST.a.us\voice\battle\us\n_xemnas_last
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\B_EX170_LAST.a.us\voice\battle\us\n_xemnas_last
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\B_EX170_LAST_LV99.a.us\voice\battle\us\n_xemnas_last
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: remastered\obj\B_EX170_LAST_LV99.a.us\voice\battle\us\n_xemnas_last
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
 - name: remastered\obj\P_EX110.a.us\-0.dds
   method: copy
   platform: pc
