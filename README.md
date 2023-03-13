@@ -6,3 +6,5 @@ Designed for use with the OpenKH Mod Loader.
 ---
 
 Hungry for lore and want more of what you saw in the trailers? This patch makes alterations to the Roxas Mod to keep it more in line with the trailer's events, including giving Sora his KH1 colors in STT, restoring Riku in area such as the fight on the mountain, and a fair few script additions!
+
+Place ABOVE the Roxas Mod 3.0 and any randomizer mods!
