@@ -28,6 +28,102 @@ assets:
   language: 
   isSwizzled: false
   index: 0
+- name: bgm\music059.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: bgm\music059.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: bgm\music060.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: bgm\music060.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: bgm\music061.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: bgm\music061.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: bgm\music062.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: bgm\music062.win32.scd
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
 - name: msg/jp/jm.bar
   multi:
   - name: msg/us/jm.bar
@@ -91,12 +187,18 @@ assets:
   source:
   - name: obj\H_ZZ010.mdlx
 - name: obj\N_EX940_BTL.mdlx
-  method: copy
-  platform: pc
-  package: kh2_fifth
-  multi: 
+  method: binarc
   source:
-  - name: obj\N_EX940_BTL.mdlx
+  - name: srko
+    type: model
+    method: copy
+    source:
+    - name: obj\N_EX940_BTL.model
+  - name: tim_
+    type: modeltexture
+    method: copy
+    source:
+    - name: obj\N_EX940_BTL.texture
 - name: obj\N_EX950.mdlx
   method: copy
   platform: pc
